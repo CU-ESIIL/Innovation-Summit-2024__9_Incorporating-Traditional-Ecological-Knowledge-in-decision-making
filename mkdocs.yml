@@ -1,11 +1,11 @@
-site_name: 'ESIIL Innovation Summit 2024'
-site_description: 'Summit 2024'
+site_name: 'ESIIL Innovation Summit 2024 Group 9'
+site_description: 'Summit 2024 Group 9'
 site_author: ESIIL staff
-site_url: https://cu-esiil.github.io/innovation-summit-2024
+site_url: https://cu-esiil.github.io/innovation-summit-2024-group-9
 
 # Repository
-repo_name: Innovation-Summit-2024
-repo_url: https://github.com/CU-ESIIL/Innovation-Summit-2024
+repo_name: Innovation-Summit-2024__9_Incorporating-Traditional-Ecological-Knowledge-in-decision-making
+repo_url: https://github.com/CU-ESIIL/Innovation-Summit-2024__9_Incorporating-Traditional-Ecological-Knowledge-in-decision-making
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2024 University of Colorado Boulder'
