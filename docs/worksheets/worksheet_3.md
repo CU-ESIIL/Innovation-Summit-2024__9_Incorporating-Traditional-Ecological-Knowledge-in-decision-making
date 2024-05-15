@@ -4,6 +4,7 @@ Welcome back! We hope today is a productive day getting to know your team and co
 
 ## Day 2 summary: 
 Please complete the warm-up with your team, briefly review today’s objectives, and carefully read the Day 2 and Day 3 report out items to guide your efforts.  
+"C:\Users\monic\OneDrive\Captura de pantalla 2024-05-15 173453.png"
 
 ## Objectives for Day 2
 1. Work together to decide on the data sets you will use. Reminder: Use a decision-making technique discussed during Day 1. Kaner’s Gradient of Agreement is below for reference.
