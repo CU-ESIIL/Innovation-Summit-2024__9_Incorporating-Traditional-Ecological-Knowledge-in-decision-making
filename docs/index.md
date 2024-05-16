@@ -7,7 +7,23 @@ Traditional knowledge includes practices, memorization, oral languages and tradi
 
 !!! Success "Provocative question"
 Main discussion: The main discussion was about protecting and preserving traditional and inherent language(s) and other holistic knowledge through data sovereignty. 
-    How can traditional ecological knowledge (TEK) be incorporated into co-created decision-making processes to enhance environmental and community resilience?
+
+    Title: Protecting and Preserving Traditional and Inherent Knowledge through Data Sovereignty. 
+
+    Question: How do we create a sovereign data environment? 
+
+    Mission Statement: 
+    We will create a sovereign data environment through remembering our ancestor's teachings and guiding the next Seven Generations     through the development of a colloboration of an     
+    Intertribal Data Sovereignty Coalition. 
+
+    Vision Statement: 
+    Healing our Nations by embracing our ways of life. 
+
+    Next steps: connect to other groups/orgs/nations that deal with data sovereignty at all levels - Tribes, TCUs, organizations,       and groups. 
+
+    What's missing: We would like to see a Data Sovereignty conference that brings together as many groups as possible for 
+    consensus building. For that to happen, we need meeting space, infrastructure, and funding. 
+    
 
 
 
